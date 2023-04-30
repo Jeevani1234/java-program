@@ -1,0 +1,20 @@
+Library management
+Librarian
+step 1:start
+step2: declare books,librarian
+step 3: read the books and librarian
+step 4:librarian checks the books and issue to the person for which they are asking 
+step 5:if the librarian doesnot find the particular book for what the person is asking then
+step 6:the person will check  the another book
+step 7:print book
+step 8:stop
+
+ issuing the books
+step 1:start
+step 2:declare the register,librarian
+step 3:read the values 
+step 4:the student will enter into the library and mention his name and write the book name  which he was reading
+step 5:after the completion of reading if he wants to take the book then the librarian will issue the book and mention the return date to return the book
+step 6:if he doesn't give the book on time penalty will be raised
+step7:else no penalty
+step 8:stop

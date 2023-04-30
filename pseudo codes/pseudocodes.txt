@@ -1,0 +1,238 @@
+To print even number or not
+begin
+declare n
+input n
+if(n%2==0)
+print even number
+else
+print not an even  number
+end if
+end
+
+To print odd  number
+begin
+declare n
+input n
+if(n%2!==0)
+print odd number
+else
+print not an odd number
+end if
+end
+
+
+vote eligible
+begin
+declare age
+input age
+if(age>=18)
+print vote is eligible
+else
+print vote is not eligible
+end if
+end
+
+print 1 to 20 even numbers
+begin
+declare i
+input i
+while(i<=20)
+if(i%2==0)
+print i
+i=i+1
+end if
+end while
+end
+
+print 1 to 20 odd numbers
+begin
+declare i
+input i
+while(i<=20)
+if(i%2!==0)
+print i
+i=i+1
+end if
+end while
+end
+
+To print sum of even numbers from 1 to 20
+begin
+declare i,sum,count
+input sum=0,count=1
+for(i<=20)
+if(i%2==0)
+print i
+sum=sum+count
+count=count+1
+else
+count=count+1
+end if
+end for
+end
+
+to print sum of odd numbers from 1 to 20
+begin
+declare i
+input sum=0,count=1
+while(i<=20)
+if(i%2!==0)
+print i
+sum=sum+1
+count=count+1
+else
+count=count+1
+end if
+end while
+end
+
+to print positive or negative
+begin
+declare num
+input num
+if(num>=0)
+print positive
+else
+print negative
+end if
+end
+ 
+To find factor
+begin
+declare n,i
+input n=12,i=1
+while(n<=12)
+if(n%i==0)
+print i
+i=i+1
+end if
+end while
+end
+
+to find perfect number
+begin
+declare i,n,sum,count
+input n=12,i=1,sum=0,count=1
+while (i<n)do
+if(n%i==0)
+sum=sum+count
+count=count+1
+ else
+count=count+1
+end while
+end if
+print sum
+if(sum==n)
+print perfect number
+else
+ print not perfect number
+end if
+end
+
+write pseudo code for biggest among three
+
+begin
+declare num1,num2,num3
+input num1,num2,num3
+if (num1>num2&&num1>num3)
+print num1 is bigger
+else if(num2>num3)
+print num2 is bigger
+else
+print num3 is bigger
+end if
+end
+
+ Addition of three numbers
+
+begin
+declare a,b,c,sum
+input a,b,c
+add a+b+c
+store the result into sum (sum=a+b+c)
+print sum
+end
+
+average of three numbers
+
+begin
+declare a,b,c,sum,avrg
+input a,b,c
+add a+b+c
+sum=a+b+c
+avrg=sum/3
+print avrg
+end
+
+area of the rectangle,square
+
+(rectangle)
+begin
+declare length,breadth,area
+input length,breadth
+area=length*breadth
+print area
+end
+
+(square)
+begin
+declare side,area
+input side,area
+area=side*side
+print area
+end
+
+.perimeter of rectangle,square
+
+(rectangle)
+begin
+declare length,breadth,perimeter
+input length,breadth
+perimeter=2*(length,breadth)
+print perimeter
+end
+
+(square)
+begin
+declare side,perimeter
+input side
+perimeter=4*side
+print perimeter
+end
+
+student - read 5 subject marks find the percentage
+
+begin
+declare sub1,sub2,sub3,sub4,sub5,sum,percentage
+input sub1,sub2,sub3,sub4,sub5
+sum=num1+num2+num3+num4+num5
+percentage=(sum/500)*100
+print percentage
+end
+
+.student - read 5 subject marks find the percentage print A,B,C,D,E
+
+begin
+declare sub1,sub2,sub3,sub4,sub5,sum,percentage,grade
+input sub1,sub2,sub3,sub4,sub5
+sum=sub1+sub2+sub3+sub4+sub5
+percentage=(sub/500)*100
+if (percentage>=90)
+print A grade
+else if (percentage>=80)
+print B grade
+else if (percentage>=70)
+print C grade
+else if (percentage>=55)
+print D grade
+else if (percentage>=40)
+print E grade
+else
+print fail
+end if
+end
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+

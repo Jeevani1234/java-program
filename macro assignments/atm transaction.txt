@@ -1,0 +1,57 @@
+algorithm for withdrawl
+step1: start
+step2: insert the card
+step3: choose the language
+step4: choose withdrawl option
+step5: enter 4 digit pin
+step6: enter amount
+step7: the ATM machine checks for amount is available or not
+step8: withdraw the cash
+step8: stop
+
+algorithm for deposit
+step1: start
+step2: insert atm card
+step3: select deposit option
+step4: enter the account number
+step5: verify the account number and shows the account holder name
+step6: asks for amount
+step7: if cash deposited is good it reciecves the amount
+       else denies the cash being deposited
+step8: deposit successfuly
+step9: stop
+
+algorthim for atm service for changing the pin
+step1: start
+step2: insert card
+step3: select services
+step4: select generate pin/change pin
+step5: select change pin
+step6: and entire registered mobile number
+step7: an opt will be received to your mobile number
+step8: now verify otp
+step9: u will be redirected to choose another pin
+step10: enter new pin and click on generate
+step11: remove card
+step12: stop
+
+
+checking the balance
+step1: start
+step2: declare the variable as atm card
+step3: read the variable
+step4: insert the atm card
+step5: enter your pin
+step6: we can click on the option called balance and we can verify
+step7: display the balance
+step8: stop
+
+step1: start
+step2: visit the ATM machine
+step3: insert the ATM card into the machine
+step4: select the language
+step5: enter your four digit ATM pin number into the machine
+step6: select the mini statement option from the screen in the machine
+step7: display the list of transactions
+step8: stop
+

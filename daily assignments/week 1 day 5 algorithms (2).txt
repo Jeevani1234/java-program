@@ -1,0 +1,14 @@
+step 1:start
+step  2:declare the n,i,sum
+step 3:read the values n=12,i=1
+step 4:if n%i==0 then
+step 5:sum=sum+i
+step 6:inrementing the i  value to 1 
+step 7:repeat steps 4,5,6 until it reaches i<n
+step 8:  if sum==n
+step 9:print perfect number otherwise
+step 10:not perfect number
+step 11:stop
+
+
+

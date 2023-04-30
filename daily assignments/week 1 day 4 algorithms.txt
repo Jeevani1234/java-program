@@ -1,0 +1,190 @@
+Input the age of the voter and check whether he is eligible to vote based on the age older than 18 years.
+step 1:  start
+step 2:   declare the variable as age
+step 3:  check if the age is eligible to vote or not
+step 4:   if the age is greater than or equal to 18 then
+step 5:   print eligible to vote
+step 6:   otherwise
+step 7:   print  not eligible to vote
+step 8:   stop
+
+
+
+
+Check your Admission possibility to your dream College based on your academic marks.
+step  1:  start
+step  2:  declare the variables as 
+step  3:  read the variables and check the admission possibility based on the marks
+step  4:  if the marks are greater than 60% 
+step  5:  then print  they are eligible
+step 6:  otherwise
+step 7:  print not eligible
+step 8:  stop
+
+
+
+
+Find the sum and average of three numbers.
+step 1:  start
+step 2:  declare the variables as average and sum
+step 3: read the variables
+step 4: add the  variables by using  num = num1+num2+num3
+step 5: calculate the average by using the formula average=sum of observations/total no of observations
+step 6: display the result
+step 7: stop
+
+
+To log in to Facebook account with valid email address and password.
+step 1: start
+step 2: declare the variables as email address and password
+step 3: read the variables
+step 4: go to the facebook website 
+step 5: Enter the  email address and password
+step 6: if the password and email address is correct then
+step 7: login is successful
+step 8: else
+step 9: login is unsuccessful
+step10: stop
+
+
+To donate a blood
+step 1: start
+step 2: declare the variables as blood group ,age, health conditions
+step 3: read the variables
+step 4: if the person is suitable according to the conditions then
+step 5: the person can donate a blood
+step 6: otherwise
+step 7: the person cannot donate a blood
+step 8: stop
+
+
+
+
+step 1: start
+step 2:declare the variables as team a and team b
+step 3: read the variables 
+step 4: if the team a  innings  are more comparing to team b then
+step 5: team  a wins
+step 6: otherwise
+step 7:team b wins
+step 8:stop
+
+
+
+
+
+
+print bit labs 5 times
+ 
+step1:start
+step2:declare count
+step3:assigning the value 1 to count variable (count=1)
+step4:print "bitlabs"
+step5:incrementing count value by 1 and store the value into count (count =count+1)
+step6: repeat step 4 and 5 until it reaches count value is greater than 5 (count<=5)
+step7:stop
+
+
+
+
+print bit labs 10 times
+ 
+step 1:start
+step 2: declare count
+step 3:assigning the value 1 to count variable(count=1)
+step4:print "bitlabs"
+step5:incrementing count value by 1 and store the value into count (count =count+1)
+step6: repeat step 4 and 5 until it reaches count value is greater than 10 (count10)
+step7:stop
+
+
+
+ print 1 to 10 
+
+
+step 1: start
+step 2: declare count
+step 3: assign the value 1 to count variable (count=1)
+step 4:print count
+step 5:incrementing count value by 1 and store the value into count(count+1)
+step 6:repeat step 4 and 5 until reaches count values is equal to 10 (or) count<=10 (or) count less than 11
+step7:stop
+
+
+
+
+how to write algorithm for "print 10 to 1"
+
+
+
+
+step 1:start
+step 2: declare count
+step 3:assign the value 10 to count variables(count=10)
+step 4:print count
+step 5:decrementing count value by 1 and store the value into count(count-1)
+step 6:step 6:repeat step 4 and 5 until reaches count values is grater than or equal to 1
+step7:stop
+
+
+
+verify the balance
+
+
+step1 : start
+step 2: declare the variable as atm card
+step 3:  read the variable
+step 4: insert the atm card
+step 5: enter your pin 
+step 6:we can click on the option called balance and we can verify
+step 7: stop
+
+
+1.write algorithm for sum of 1 to 10 numbers.
+
+
+step 1 :  start
+step 2 : declare the variables sum
+step 3 : assign the value 
+step 4 : check sum=sum+1
+step 5:incrementing the value
+step 6:repeat 4 and 5 steps
+step 7 : print sum
+step 8:  stop
+
+
+
+2.write algorithm for print even numbers from 1 to 100 
+
+
+step 1: start
+step 2:declare the variable count
+step 3:read the variable
+step 5:check whether it is divisible by 2
+step 5: incrementing the value by 1 and store the count value(count+1)
+step 6: print count
+step 6:stop
+
+
+3.write algorithm for print odd numbers from 1 to 100
+step 1:start
+step 2:declare the variables
+step 3:read the variables
+step 4:check whether it is not divisible by 2
+step 5:incrementing the value by 1 and store the count value(count+1)
+step 6:print
+step 7:stop
+
+
+
+
+4.algorithm to print sum of even numbers from 1 to 20
+step 1:start
+step 2:declare the variables sum, count
+step 3:Assigning the value 1 into count and assigning value '0' to sum
+step 4:check if the count value is divisible by 2 
+step 5:adding count value to sum and store that result into sum (sum-->sum+ count)
+step 6:print count
+step 7:incrementing the value by 1 and store the count (count+1)
+step 7:repeat the steps 4 and 5 until it reaches the count value less than or equal to 20
+step 8:stop
